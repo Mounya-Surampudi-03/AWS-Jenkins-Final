@@ -1,4 +1,4 @@
-# AWS Jenkins Availability Monitoring & Alerting
+# AWS Jenkins Monitoring & Automated Alerting System using CloudWatch and SNS
 
 ## 📌 Project Overview
 This project demonstrates how to monitor Jenkins availability on an AWS EC2 instance using a custom Bash script, automate monitoring using cron jobs, and trigger alerts using AWS CloudWatch and SNS when Jenkins goes down.
